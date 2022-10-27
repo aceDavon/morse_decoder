@@ -1,42 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Morse Code Decoder
 
-> Description the project.
-
+> This project is a ruby program which accepts user input as morse code and then translates(decode) it to normal text.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Ruby
 
 ## Authors
 
@@ -46,11 +16,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@sharkleshevon](https://twitter.com/sharkleshevon)
 - LinkedIn: [Makoji David](https://linkedin.com/in/makoji-david)
 
-👤 **Author2**
+👤 **Okine Kingsley**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@killy10o10](https://github.com/killy10o10)
+- Twitter: [@Quami_Killy](https://twitter.com/Quami_Killy)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kingsley-okine/)
 
 ## 🤝 Contributing
 
@@ -65,8 +35,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse community
 
 ## 📝 License
 
