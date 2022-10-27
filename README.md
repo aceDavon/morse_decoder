@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+![](./images/morse-code.webp)
 
 # Morse Code Decoder
 
@@ -7,6 +8,20 @@
 ## Built With
 
 - Ruby
+
+## Pre-requisites
+
+- You need to have Ruby installed on your local machine
+- Ruby bundler properly set up for installing dependencies
+  > **Go here to get Ruby installer for windows** > [Windows Installer](https://rubyinstaller.org/) > **Go here to get Ruby installer for Linux** > [Linux Installer](https://www.ruby-lang.org/en/documentation/installation/) > **Go here to get Ruby installer for MacOS** > [MacOS Installer](https://www.ruby-lang.org/en/documentation/installation/)
+
+## Setup
+
+- Git clone `https://github.com/aceDavon/morse_decoder.git`
+- cd `morse_decoder`
+- run `bundle install`
+- run `rubocop .` to check for linters
+- run `ruby morse_code.rb` to run program
 
 ## Authors
 
@@ -20,7 +35,7 @@
 
 - GitHub: [@killy10o10](https://github.com/killy10o10)
 - Twitter: [@Quami_Killy](https://twitter.com/Quami_Killy)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kingsley-okine/)
+- LinkedIn: [@Kingsley Okine](https://www.linkedin.com/in/kingsley-okine/)
 
 ## 🤝 Contributing
 
